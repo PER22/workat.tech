@@ -1,0 +1,9 @@
+{
+    "difficulty": "easy",
+    "py_runtime": 0.34,
+    "companies": [
+        "Amazon",
+        "VMware"
+    ],
+    "title": "Max Consecutive Ones"
+}
