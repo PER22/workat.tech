@@ -1,0 +1,10 @@
+{
+    "difficulty": "easy",
+    "py_runtime": 1.7,
+    "companies": [
+        "Amazon",
+        "Facebook",
+        "Microsoft"
+    ],
+    "title": "Square Root"
+}

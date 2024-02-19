@@ -1,0 +1,8 @@
+{
+    "difficulty": "easy",
+    "py_runtime": 1.69,
+    "companies": [
+        "Amazon"
+    ],
+    "title": "Merge Sorted Subarrays"
+}

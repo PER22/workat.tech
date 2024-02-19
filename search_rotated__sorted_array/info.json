@@ -1,0 +1,20 @@
+{
+    "difficulty": "medium",
+    "java_runtime": 1.07,
+    "companies": [
+        "Adobe",
+        "Adobe",
+        "Amazon",
+        "Facebook",
+        "Flipkart",
+        "Google",
+        "Hike",
+        "Intuit",
+        "MakeMyTrip",
+        "Microsoft",
+        "Paytm",
+        "Snapdeal",
+        "Times Internetx"
+    ],
+    "title": "Search Rotated  Sorted Array"
+}

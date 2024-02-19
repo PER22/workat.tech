@@ -1,0 +1,9 @@
+{
+    "difficulty": "medium",
+    "py_runtime": 0.42,
+    "companies": [
+        "Amazon",
+        "Microsoft"
+    ],
+    "title": "Rat In A Maze"
+}

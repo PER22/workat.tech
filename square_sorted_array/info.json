@@ -1,0 +1,9 @@
+{
+    "difficulty": "easy",
+    "java_runtime": 0.68,
+    "companies": [
+        "Amazon",
+        "VMWare"
+    ],
+    "title": "Square Sorted Array"
+}
