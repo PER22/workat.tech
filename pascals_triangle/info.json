@@ -1,0 +1,9 @@
+{
+    "difficulty": "easy",
+    "py_runtime": 0.16,
+    "companies": [
+        "Amazon",
+        "Google"
+    ],
+    "title": "Pascals Triangle"
+}
